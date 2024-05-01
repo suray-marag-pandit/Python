@@ -94,3 +94,53 @@ assigned to the variable"""
         # Tuple items are ordered, unchangeable, and allow duplicate values.
         # len(thistuple)
 
+        # tuple with one item is 
+        # tuplename = ("hello ",)
+        # tuple[1:2]
+        # (green, yellow, *red) = fruits
+        # (green, *tropic, red) = fruits  //output apple , ['mango', 'papaya', 'pineapple'] , cherry
+
+        # similar to the list
+
+
+# SETS   
+
+        # thisset = {"apple", "banana", "cherry"}
+        # thisset.add("orange")
+        # thisset.update(tropical) //where tropical is another set/list/tuple/dict etc
+        # thisset.remove("element") (raise an error if not found)
+        # thisset.discard("element")  (doesn't raise an error if not found)
+        # pop() remove an random item
+        # del (delete the set)
+        # clear ( empty the set)
+
+
+        # SETS 
+        #union , update , difference , intersection , symmetric_difference , intersection_update
+        # Method	Shortcut	Description
+        # add()	 	Adds an element to the set
+        # clear()	 	Removes all the elements from the set
+        # copy()	 	Returns a copy of the set
+        # difference()	-	Returns a set containing the difference between two or more sets
+        # difference_update()	-=	Removes the items in this set that are also included in another, specified set
+        # discard()	 	Remove the specified item
+        # intersection()	&	Returns a set, that is the intersection of two other sets
+        # intersection_update()	&=	Removes the items in this set that are not present in other, specified set(s)
+        # isdisjoint()	 	Returns whether two sets have a intersection or not
+        # issubset()	<=	Returns whether another set contains this set or not
+        #         <	Returns whether all items in this set is present in other, specified set(s)
+        # issuperset()	>=	Returns whether this set contains another set or not
+        #         >	Returns whether all items in other, specified set(s) is present in this set
+        # pop()	 	Removes an element from the set
+        # remove()	 	Removes the specified element
+        # symmetric_difference()	^	Returns a set with the symmetric differences of two sets
+        # symmetric_difference_update()	^=	Inserts the symmetric differences from this set and another
+        # union()	|	Return a set containing the union of sets
+        # update()	|=	Update the set with the union of this set and others
+
+                
+
+# Dictionaries
+
+
+
