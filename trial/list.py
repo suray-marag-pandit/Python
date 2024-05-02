@@ -170,5 +170,7 @@ def display_menu():
 # print(count)
 
 
-l =list(eval(input("Enter the elements: ")))
-print(l)
+# l = [1,2]
+# l2 = int(input("Enter the list: "))
+# l.extend(l2)
+# print(l)

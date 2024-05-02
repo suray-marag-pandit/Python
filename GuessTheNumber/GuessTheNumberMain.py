@@ -1,2 +1,4 @@
 import random
-print(random)
+
+
+print(random.randrange(  ))
